@@ -40,4 +40,4 @@ If you're still here reading this...
 
 You’re the last Guardian in the Tower.
 
-Welcome.
+Welcome
